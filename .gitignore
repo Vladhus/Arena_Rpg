@@ -58,3 +58,1441 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/3DGamekit.meta
+Assets/3DGamekit/Art.meta
+*.mat
+*.png
+Assets/3DGamekit/Art/Materials.meta
+Assets/3DGamekit/Art/Materials/Environment.meta
+Assets/3DGamekit/Art/Materials/Environment/Rock.meta
+Assets/3DGamekit/Art/Materials/Environment/Rock/RockFloating01_Mat.mat.meta
+Assets/3DGamekit/Art/Materials/Environment/Rock/RockFloating01_Mat_MaskMap.png.meta
+Assets/3DGamekit/Art/Materials/Environment/Rock/RockFloating02_Mat.mat.meta
+Assets/3DGamekit/Art/Materials/Environment/Rock/RockFloating02_Mat_MaskMap.png.meta
+Assets/3DGamekit/Art/Materials/Environment/Stonework.meta
+Assets/3DGamekit/Art/Materials/Environment/Stonework/layered-rock1-albedo.png.meta
+Assets/3DGamekit/Art/Materials/Environment/Stonework/layered-rock1-ao.png.meta
+Assets/3DGamekit/Art/Materials/Environment/Stonework/layered-rock1-height.png.meta
+Assets/3DGamekit/Art/Materials/Environment/Stonework/layered-rock1-Metalness.psd
+Assets/3DGamekit/Art/Materials/Environment/Stonework/layered-rock1-Metalness.psd.meta
+Assets/3DGamekit/Art/Materials/Environment/Stonework/layered-rock1-normal-ogl.png.meta
+Assets/3DGamekit/Art/Materials/Environment/Stonework/Test.mat.meta
+Assets/3DGamekit/Art/Models.meta
+Assets/3DGamekit/Art/Models/Environment.meta
+Assets/3DGamekit/Art/Models/Environment/Rock.meta
+Assets/3DGamekit/Art/Models/Environment/Rock/RockFloating01.fbx
+Assets/3DGamekit/Art/Models/Environment/Rock/RockFloating01.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/Rock/RockFloating02.fbx
+Assets/3DGamekit/Art/Models/Environment/Rock/RockFloating02.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/Stonework.meta
+Assets/3DGamekit/Art/Models/Environment/Stonework/FloorPanel1x1.fbx
+Assets/3DGamekit/Art/Models/Environment/Stonework/FloorPanel1x1.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/Stonework/FloorPanel2x1.fbx
+Assets/3DGamekit/Art/Models/Environment/Stonework/FloorPanel2x1.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/Stonework/FloorPanel2x2.fbx
+Assets/3DGamekit/Art/Models/Environment/Stonework/FloorPanel2x2.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/Stonework/PlatformEdge01.fbx
+Assets/3DGamekit/Art/Models/Environment/Stonework/PlatformEdge01.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/Stonework/PlatformEdge02.fbx
+Assets/3DGamekit/Art/Models/Environment/Stonework/PlatformEdge02.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/Stonework/PlatformLong.fbx
+Assets/3DGamekit/Art/Models/Environment/Stonework/PlatformLong.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/Stonework/WallCornerBig01Broken.fbx
+Assets/3DGamekit/Art/Models/Environment/Stonework/WallCornerBig01Broken.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationLarge.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationLarge/VegetationLarge01.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationLarge/VegetationLarge01.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationLarge/VegetationLarge01_02.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationLarge/VegetationLarge01_02.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationLarge/VegetationLarge02.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationLarge/VegetationLarge02.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationLarge/VegetationLarge03.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationLarge/VegetationLarge03.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationLarge/VegetationLarge03_02.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationLarge/VegetationLarge03_02.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationLarge/VegetationLarge04.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationLarge/VegetationLarge04.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationLarge/VegetationLarge05.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationLarge/VegetationLarge05.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationLarge/VegetationLarge05_02.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationLarge/VegetationLarge05_02.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationLarge/VegetationLarge06.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationLarge/VegetationLarge06.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationLarge/VegetationLarge07.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationLarge/VegetationLarge07.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationMedium.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationMedium/VegetationMedium01.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationMedium/VegetationMedium01.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationMedium/VegetationMedium02.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationMedium/VegetationMedium02.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationMedium/VegetationMedium03.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationMedium/VegetationMedium03.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationMedium/VegetationMedium04.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationMedium/VegetationMedium04.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationMedium/VegetationMedium05.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationMedium/VegetationMedium05.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/GroundCover02.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/GroundCover02.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/HangingMoss02.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/HangingMoss02.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/HangingVine.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/HangingVine.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall01.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall01.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall01_02.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall01_02.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall02.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall02.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall03.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall03.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall03_02.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall03_02.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall04.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall04.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall04_02.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall04_02.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall05.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall05.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall05_02.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall05_02.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall05_03.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall05_03.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall06.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall06.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall07.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall07.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall07_02.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall07_02.fbx.meta
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall07_03.fbx
+Assets/3DGamekit/Art/Models/Environment/VegetationSmall/VegetationSmall07_03.fbx.meta
+Assets/3DGamekit/Art/Textures.meta
+Assets/3DGamekit/Art/Textures/Environment.meta
+Assets/3DGamekit/Art/Textures/Environment/Ground.meta
+Assets/3DGamekit/Art/Textures/Environment/Ground/Moss_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/Ground/Moss_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Ground/Moss_Normal.tif
+Assets/3DGamekit/Art/Textures/Environment/Ground/Moss_Normal.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Ground/Moss_Normal1.tif
+Assets/3DGamekit/Art/Textures/Environment/Ground/Moss_Normal1.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Rock.meta
+Assets/3DGamekit/Art/Textures/Environment/Rock/RockDetail_normal.tif
+Assets/3DGamekit/Art/Textures/Environment/Rock/RockDetail_normal.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Rock/RockFloating01_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/Rock/RockFloating01_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Rock/RockFloating01_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/Rock/RockFloating01_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Rock/RockFloating01_Normals.tif
+Assets/3DGamekit/Art/Textures/Environment/Rock/RockFloating01_Normals.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Rock/RockFloating01_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/Rock/RockFloating01_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Rock/RockFloating02_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/Rock/RockFloating02_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Rock/RockFloating02_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/Rock/RockFloating02_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Rock/RockFloating02_Normal.tif
+Assets/3DGamekit/Art/Textures/Environment/Rock/RockFloating02_Normal.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Rock/RockFloating02_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/Rock/RockFloating02_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/DoorHuge01_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/DoorHuge01_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/DoorHuge01_Emission.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/DoorHuge01_Emission.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/DoorHuge01_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/DoorHuge01_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/DoorHuge01_Normal.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/DoorHuge01_Normal.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/DoorHuge01_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/DoorHuge01_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/FloorPanel01_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/FloorPanel01_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/FloorPanel01_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/FloorPanel01_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/FloorPanel01_Normal.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/FloorPanel01_Normal.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/FloorPanel01_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/FloorPanel01_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/GateHuge01_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/GateHuge01_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/GateHuge01_Emission.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/GateHuge01_Emission.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/GateHuge01_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/GateHuge01_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/GateHuge01_Normal.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/GateHuge01_Normal.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/GateHuge01_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/GateHuge01_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Platform_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Platform_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Platform_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Platform_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Platform_Normal.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Platform_Normal.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Platform_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Platform_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Wall01_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Wall01_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Wall01_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Wall01_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Wall01_Normal.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Wall01_Normal.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Wall01_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Wall01_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Wall02_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Wall02_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Wall02_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Wall02_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Wall02_Normal.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Wall02_Normal.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Wall02_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/Wall02_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallCornerBig01Broken_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallCornerBig01Broken_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallCornerBig01Broken_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallCornerBig01Broken_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallCornerBig01Broken_Normal.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallCornerBig01Broken_Normal.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallCornerBig01Broken_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallCornerBig01Broken_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallLong01Broken_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallLong01Broken_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallLong01Broken_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallLong01Broken_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallLong01Broken_Normal.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallLong01Broken_Normal.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallLong01Broken_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallLong01Broken_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallTallCorner_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallTallCorner_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallTallCorner_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallTallCorner_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallTallCorner_Normal.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallTallCorner_Normal.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallTallCorner_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallTallCorner_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallTallLong_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallTallLong_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallTallLong_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallTallLong_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallTallLong_Normal.tif
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallTallLong_Normal.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallTallShort_Albedo.png.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallTallShort_MetallicSmooth.png.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallTallShort_Normal.png.meta
+Assets/3DGamekit/Art/Textures/Environment/Stonework/WallTallShort_Occlusion.png.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge01_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge01_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge01_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge01_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge01_Normals.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge01_Normals.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge01_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge01_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge02_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge02_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge02_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge02_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge02_Normals.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge02_Normals.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge02_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge02_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge03_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge03_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge03_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge03_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge03_Normals.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge03_Normals.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge03_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge03_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge04_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge04_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge04_Emission.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge04_Emission.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge04_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge04_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge04_Normals.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge04_Normals.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge04_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge04_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge05_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge05_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge05_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge05_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge05_Normals.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge05_Normals.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge05_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge05_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge06_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge06_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge06_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge06_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge06_Normals.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge06_Normals.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge06_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge06_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge07_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge07_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge07_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge07_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge07_Normals.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge07_Normals.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge07_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationLarge/VegetationLarge07_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium01_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium01_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium01_Emission.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium01_Emission.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium01_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium01_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium01_Normals.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium01_Normals.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium01_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium01_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium02_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium02_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium02_Emission.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium02_Emission.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium02_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium02_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium02_Normals.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium02_Normals.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium02_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium02_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium03_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium03_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium03_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium03_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium03_Normals.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium03_Normals.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium03_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium03_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium04_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium04_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium04_Emissive.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium04_Emissive.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium04_Normals.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium04_Normals.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium04_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium04_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium05_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium05_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium05_Normal.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium05_Normal.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium05_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationMedium/VegetationMedium05_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/Grass01_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/Grass01_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/Grass01_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/Grass01_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/Grass01_Normal.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/Grass01_Normal.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/Grass01_Occlusion.tiff
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/Grass01_Occlusion.tiff.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/HangingMoss01_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/HangingMoss01_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/HangingMoss01_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/HangingMoss01_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/HangingMoss01_Normal.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/HangingMoss01_Normal.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/HangingMoss01_occlusion.tiff
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/HangingMoss01_occlusion.tiff.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall01_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall01_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall01_Emission.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall01_Emission.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall01_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall01_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall01_Normals.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall01_Normals.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall01_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall01_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall02_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall02_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall02_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall02_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall02_Normals.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall02_Normals.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall02_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall02_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall03_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall03_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall03_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall03_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall03_Normals.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall03_Normals.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall03_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall03_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall04_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall04_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall04_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall04_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall04_Normals.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall04_Normals.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall04_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall04_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall05_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall05_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall05_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall05_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall05_Normals.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall05_Normals.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall05_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall05_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall06_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall06_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall06_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall06_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall06_Normals.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall06_Normals.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall06_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall06_Occlusion.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall07_Albedo.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall07_Albedo.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall07_MetallicSmooth.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall07_MetallicSmooth.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall07_Normals.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall07_Normals.tif.meta
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall07_Occlusion.tif
+Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/VegetationSmall07_Occlusion.tif.meta
+Assets/3DGamekit/Prefabs.meta
+Assets/3DGamekit/Prefabs/Environment.meta
+Assets/3DGamekit/Prefabs/Environment/Rock.meta
+Assets/3DGamekit/Prefabs/Environment/Rock/RockFloating01.prefab
+Assets/3DGamekit/Prefabs/Environment/Rock/RockFloating01.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/Rock/RockFloating02.prefab
+Assets/3DGamekit/Prefabs/Environment/Rock/RockFloating02.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/Stonework.meta
+Assets/3DGamekit/Prefabs/Environment/Stonework/DoorHuge01.prefab
+Assets/3DGamekit/Prefabs/Environment/Stonework/DoorHuge01.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/Stonework/FloorPanel2x1.prefab
+Assets/3DGamekit/Prefabs/Environment/Stonework/FloorPanel2x1.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/Stonework/FloorPanel2x2.prefab
+Assets/3DGamekit/Prefabs/Environment/Stonework/FloorPanel2x2.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/Stonework/PlatformLong.prefab
+Assets/3DGamekit/Prefabs/Environment/Stonework/PlatformLong.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/Stonework/WallCornerBig01Broken 1.prefab
+Assets/3DGamekit/Prefabs/Environment/Stonework/WallCornerBig01Broken 1.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/Stonework/WallCornerBig01Broken.prefab
+Assets/3DGamekit/Prefabs/Environment/Stonework/WallCornerBig01Broken.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/Structures.meta
+Assets/3DGamekit/Prefabs/Environment/Structures/GateWayHugeTeleporter.prefab
+Assets/3DGamekit/Prefabs/Environment/Structures/GateWayHugeTeleporter.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/Structures/Wall0x.prefab
+Assets/3DGamekit/Prefabs/Environment/Structures/Wall0x.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/Structures/Wall1x.prefab
+Assets/3DGamekit/Prefabs/Environment/Structures/Wall1x.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/Structures/Wall2x.prefab
+Assets/3DGamekit/Prefabs/Environment/Structures/Wall2x.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/Structures/Wall4x.prefab
+Assets/3DGamekit/Prefabs/Environment/Structures/Wall4x.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/Structures/Wall6x.prefab
+Assets/3DGamekit/Prefabs/Environment/Structures/Wall6x.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationLarge.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationLarge/VegetationLarge01.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationLarge/VegetationLarge01.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationLarge/VegetationLarge01V2.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationLarge/VegetationLarge01V2.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationLarge/VegetationLarge02.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationLarge/VegetationLarge02.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationLarge/VegetationLarge03.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationLarge/VegetationLarge03.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationLarge/VegetationLarge03V2.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationLarge/VegetationLarge03V2.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationLarge/VegetationLarge04.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationLarge/VegetationLarge04.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationLarge/VegetationLarge05.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationLarge/VegetationLarge05.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationLarge/VegetationLarge05V2.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationLarge/VegetationLarge05V2.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationLarge/VegetationLarge06.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationLarge/VegetationLarge06.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationLarge/VegetationLarge07.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationLarge/VegetationLarge07.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationMedium.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationMedium/VegetationMedium01.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationMedium/VegetationMedium01.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationMedium/VegetationMedium02.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationMedium/VegetationMedium02.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationMedium/VegetationMedium03.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationMedium/VegetationMedium03.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationMedium/VegetationMedium04.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationMedium/VegetationMedium04.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationMedium/VegetationMedium05.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationMedium/VegetationMedium05.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/GroundCover02.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/GroundCover02.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/GroundCover03.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/GroundCover03.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/HangingMoss02.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/HangingMoss02.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/HangingVine.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/HangingVine.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall01.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall01.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall01V2.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall01V2.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall02.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall02.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall03.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall03.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall03V2.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall03V2.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall04.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall04.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall04V2.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall04V2.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall05.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall05.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall05V2.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall05V2.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall06.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall06.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall07.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall07.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall07V2.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall07V2.prefab.meta
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall07V3.prefab
+Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall07V3.prefab.meta
+Assets/3DGamekit/Prefabs/VFX.meta
+Assets/3DGamekit/Prefabs/VFX/Environment.meta
+Assets/3DGamekit/Prefabs/VFX/Environment/Fog.prefab
+Assets/3DGamekit/Prefabs/VFX/Environment/Fog.prefab.meta
+Assets/BOXOPHOBIC.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Shaders.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Shaders/Skybox Cubemap Extended.shader
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Shaders/Skybox Cubemap Extended.shader.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Demo Day.unity
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Demo Day.unity.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Demo Night.unity
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Demo Night.unity.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - FirTree.mat.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - FirTreeVariation.mat.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - Grass.mat.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - Rock.mat.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - Terrain.mat.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - TreeTrunk.mat.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - Wood.mat.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/Skybox Cubemap Extended Day.mat.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/Skybox Cubemap Extended Night.mat.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Fence A.FBX
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Fence A.FBX.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Fence B.FBX
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Fence B.FBX.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - FirTree A.FBX
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - FirTree A.FBX.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - FirTree B.FBX
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - FirTree B.FBX.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Grass A.FBX
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Grass A.FBX.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Grass B.FBX
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Grass B.FBX.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Rock A.FBX
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Rock A.FBX.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Rock B.FBX
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Rock B.FBX.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Terrain.FBX
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Terrain.FBX.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Post.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Post/Demo.asset
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Post/Demo.asset.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Fence A.prefab
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Fence A.prefab.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Fence B.prefab
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Fence B.prefab.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - FirTree A.prefab
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - FirTree A.prefab.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - FirTree B.prefab
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - FirTree B.prefab.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Grass A.prefab
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Grass A.prefab.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Grass B.prefab
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Grass B.prefab.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Rock A.prefab
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Rock A.prefab.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Rock B.prefab
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Rock B.prefab.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Textures.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Textures/Polyverse Skies - Blue Sky.png.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Textures/Polyverse Skies - Night Sky.exr
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Textures/Polyverse Skies - Night Sky.exr.meta
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Skybox Cubemap Extended.pdf
+Assets/BOXOPHOBIC/Skybox Cubemap Extended/Skybox Cubemap Extended.pdf.meta
+Assets/BOXOPHOBIC/Utils.meta
+Assets/BOXOPHOBIC/Utils/ASE Functions.meta
+Assets/BOXOPHOBIC/Utils/ASE Functions/Blend By Height.asset
+Assets/BOXOPHOBIC/Utils/ASE Functions/Blend By Height.asset.meta
+Assets/BOXOPHOBIC/Utils/ASE Functions/Color Hue.asset
+Assets/BOXOPHOBIC/Utils/ASE Functions/Color Hue.asset.meta
+Assets/BOXOPHOBIC/Utils/ASE Functions/ColorSpace Color Always Gamma.asset
+Assets/BOXOPHOBIC/Utils/ASE Functions/ColorSpace Color Always Gamma.asset.meta
+Assets/BOXOPHOBIC/Utils/ASE Functions/ColorSpace Double Value.asset
+Assets/BOXOPHOBIC/Utils/ASE Functions/ColorSpace Double Value.asset.meta
+Assets/BOXOPHOBIC/Utils/ASE Functions/ColorSpace Half Value.asset
+Assets/BOXOPHOBIC/Utils/ASE Functions/ColorSpace Half Value.asset.meta
+Assets/BOXOPHOBIC/Utils/ASE Functions/ColorSpace Value Always Gamma.asset
+Assets/BOXOPHOBIC/Utils/ASE Functions/ColorSpace Value Always Gamma.asset.meta
+Assets/BOXOPHOBIC/Utils/ASE Functions/ColorSpace Value Always Linear.asset
+Assets/BOXOPHOBIC/Utils/ASE Functions/ColorSpace Value Always Linear.asset.meta
+Assets/BOXOPHOBIC/Utils/ASE Functions/Compute Rotation.asset
+Assets/BOXOPHOBIC/Utils/ASE Functions/Compute Rotation.asset.meta
+Assets/BOXOPHOBIC/Utils/ASE Functions/Get Object Batching.asset
+Assets/BOXOPHOBIC/Utils/ASE Functions/Get Object Batching.asset.meta
+Assets/BOXOPHOBIC/Utils/ASE Functions/Get Object Position.asset
+Assets/BOXOPHOBIC/Utils/ASE Functions/Get Object Position.asset.meta
+Assets/BOXOPHOBIC/Utils/ASE Functions/Get Time.asset
+Assets/BOXOPHOBIC/Utils/ASE Functions/Get Time.asset.meta
+Assets/BOXOPHOBIC/Utils/ASE Functions/Is Pipeline.asset
+Assets/BOXOPHOBIC/Utils/ASE Functions/Is Pipeline.asset.meta
+Assets/BOXOPHOBIC/Utils/ASE Functions/Math Remap To 0-1.asset
+Assets/BOXOPHOBIC/Utils/ASE Functions/Math Remap To 0-1.asset.meta
+Assets/BOXOPHOBIC/Utils/ASE Functions/Render Alpha Clipping.asset
+Assets/BOXOPHOBIC/Utils/ASE Functions/Render Alpha Clipping.asset.meta
+Assets/BOXOPHOBIC/Utils/ASE Functions/Render Diffusion Profile.asset
+Assets/BOXOPHOBIC/Utils/ASE Functions/Render Diffusion Profile.asset.meta
+Assets/BOXOPHOBIC/Utils/ASE Functions/Render LOD CrossFade.asset
+Assets/BOXOPHOBIC/Utils/ASE Functions/Render LOD CrossFade.asset.meta
+Assets/BOXOPHOBIC/Utils/ASE Functions/Render Normals.asset
+Assets/BOXOPHOBIC/Utils/ASE Functions/Render Normals.asset.meta
+Assets/BOXOPHOBIC/Utils/ASE Functions/Render Simple Lit Smoothness.asset
+Assets/BOXOPHOBIC/Utils/ASE Functions/Render Simple Lit Smoothness.asset.meta
+Assets/BOXOPHOBIC/Utils/ASE Templates.meta
+Assets/BOXOPHOBIC/Utils/ASE Templates/Universal 2019.3 Simple Lit.unitypackage.meta
+Assets/BOXOPHOBIC/Utils/CGIncludes.meta
+Assets/BOXOPHOBIC/Utils/CGIncludes/VS_indirect.cginc
+Assets/BOXOPHOBIC/Utils/CGIncludes/VS_indirect.cginc.meta
+Assets/BOXOPHOBIC/Utils/Legacy.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/BCategoryAttribute.cs
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/BCategoryAttribute.cs.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/BInteractiveAttribute.cs
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/BInteractiveAttribute.cs.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/BLayersEnumAttribute.cs
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/BLayersEnumAttribute.cs.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/BMessageAttribute.cs
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/BMessageAttribute.cs.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/BRangeOptionsAttribute.cs
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/BRangeOptionsAttribute.cs.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/BRangeSimpleAttribute.cs
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/BRangeSimpleAttribute.cs.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BBannerDrawer.cs
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BBannerDrawer.cs.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BCategoryAttributeDrawer.cs
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BCategoryAttributeDrawer.cs.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BCategoryDrawer.cs
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BCategoryDrawer.cs.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BInteractiveAttributeDrawer.cs
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BInteractiveAttributeDrawer.cs.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BInteractiveDrawer.cs
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BInteractiveDrawer.cs.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BLayersEnumAttributeDrawer.cs
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BLayersEnumAttributeDrawer.cs.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BMessageAttributeDrawer.cs
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BMessageAttributeDrawer.cs.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BMessageDrawer.cs
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BMessageDrawer.cs.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BRangeOptionsAttributeDrawer.cs
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BRangeOptionsAttributeDrawer.cs.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BRangeSimpleAttributeDrawer.cs
+Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BRangeSimpleAttributeDrawer.cs.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Editor.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Editor/BConst.cs
+Assets/BOXOPHOBIC/Utils/Legacy/Editor/BConst.cs.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Editor/BEditorGUI.cs
+Assets/BOXOPHOBIC/Utils/Legacy/Editor/BEditorGUI.cs.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Editor/BEditorUtils.cs
+Assets/BOXOPHOBIC/Utils/Legacy/Editor/BEditorUtils.cs.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Editor/BVersion.cs
+Assets/BOXOPHOBIC/Utils/Legacy/Editor/BVersion.cs.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Functions.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Functions/const.asset
+Assets/BOXOPHOBIC/Utils/Legacy/Functions/const.asset.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Functions/Enum Switch.asset
+Assets/BOXOPHOBIC/Utils/Legacy/Functions/Enum Switch.asset.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Functions/Internal Unity Props.asset
+Assets/BOXOPHOBIC/Utils/Legacy/Functions/Internal Unity Props.asset.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Functions/Lighting Lambert.asset
+Assets/BOXOPHOBIC/Utils/Legacy/Functions/Lighting Lambert.asset.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Functions/Lighting Specular.asset
+Assets/BOXOPHOBIC/Utils/Legacy/Functions/Lighting Specular.asset.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Functions/Normal BackFace.asset
+Assets/BOXOPHOBIC/Utils/Legacy/Functions/Normal BackFace.asset.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Functions/Normal Unpack.asset
+Assets/BOXOPHOBIC/Utils/Legacy/Functions/Normal Unpack.asset.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Functions/Object Position.asset
+Assets/BOXOPHOBIC/Utils/Legacy/Functions/Object Position.asset.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Shaders.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Shaders/SimpleLit Prototype Terrain.shader
+Assets/BOXOPHOBIC/Utils/Legacy/Shaders/SimpleLit Prototype Terrain.shader.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Shaders/StandardLit Prototype Terrain.shader
+Assets/BOXOPHOBIC/Utils/Legacy/Shaders/StandardLit Prototype Terrain.shader.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Textures.meta
+Assets/BOXOPHOBIC/Utils/Legacy/Textures/Default Reflection.png.meta
+Assets/BOXOPHOBIC/Utils/Resources.meta
+Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - BannerBegin.psd
+Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - BannerBegin.psd.meta
+Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - BannerEnd.psd
+Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - BannerEnd.psd.meta
+Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - BannerMiddle.psd
+Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - BannerMiddle.psd.meta
+Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - CategoryBegin.psd
+Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - CategoryBegin.psd.meta
+Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - CategoryEnd.psd
+Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - CategoryEnd.psd.meta
+Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - CategoryMiddle.psd
+Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - CategoryMiddle.psd.meta
+Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - IconEdit.psd
+Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - IconEdit.psd.meta
+Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - IconFile.psd
+Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - IconFile.psd.meta
+Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - IconHelp.psd
+Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - IconHelp.psd.meta
+Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - LogoDark.png.meta
+Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - LogoLight.png.meta
+Assets/BOXOPHOBIC/Utils/Resources/Dummy NormalTex.png.meta
+Assets/BOXOPHOBIC/Utils/Resources/Dummy Shader.shader
+Assets/BOXOPHOBIC/Utils/Resources/Dummy Shader.shader.meta
+Assets/BOXOPHOBIC/Utils/Resources/QuadMesh.FBX
+Assets/BOXOPHOBIC/Utils/Resources/QuadMesh.FBX.meta
+Assets/BOXOPHOBIC/Utils/Scripts.meta
+Assets/BOXOPHOBIC/Utils/Scripts/StyledEditor.meta
+Assets/BOXOPHOBIC/Utils/Scripts/StyledEditor/Editor.meta
+Assets/BOXOPHOBIC/Utils/Scripts/StyledEditor/Editor/MonoBehaviourEditor.cs
+Assets/BOXOPHOBIC/Utils/Scripts/StyledEditor/Editor/MonoBehaviourEditor.cs.meta
+Assets/BOXOPHOBIC/Utils/Scripts/StyledEditor/HideScriptField.cs
+Assets/BOXOPHOBIC/Utils/Scripts/StyledEditor/HideScriptField.cs.meta
+Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector.meta
+Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/Editor.meta
+Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/Editor/StyledBannerDrawer.cs
+Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/Editor/StyledBannerDrawer.cs.meta
+Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/Editor/StyledMessageDrawer.cs
+Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/Editor/StyledMessageDrawer.cs.meta
+Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/Editor/StyledRangeOptionsDrawer.cs
+Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/Editor/StyledRangeOptionsDrawer.cs.meta
+Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/Editor/StyledSpaceDrawer.cs
+Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/Editor/StyledSpaceDrawer.cs.meta
+Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/Editor/StyledTexturePreviewDrawer.cs
+Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/Editor/StyledTexturePreviewDrawer.cs.meta
+Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledBanner.cs
+Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledBanner.cs.meta
+Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledMessage.cs
+Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledMessage.cs.meta
+Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledRangeOptions.cs
+Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledRangeOptions.cs.meta
+Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledSpace.cs
+Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledSpace.cs.meta
+Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledTexturePreview.cs
+Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledTexturePreview.cs.meta
+Assets/BOXOPHOBIC/Utils/Scripts/StyledMaterial.meta
+Assets/BOXOPHOBIC/Utils/Scripts/StyledMaterial/Editor.meta
+Assets/BOXOPHOBIC/Utils/Scripts/StyledMaterial/Editor/StyledBannerDrawer.cs
+Assets/BOXOPHOBIC/Utils/Scripts/StyledMaterial/Editor/StyledBannerDrawer.cs.meta
+Assets/BOXOPHOBIC/Utils/Scripts/StyledMaterial/Editor/StyledCategoryDrawer.cs
+Assets/BOXOPHOBIC/Utils/Scripts/StyledMaterial/Editor/StyledCategoryDrawer.cs.meta
+Assets/BOXOPHOBIC/Utils/Scripts/Utils.meta
+Assets/BOXOPHOBIC/Utils/Scripts/Utils/Editor.meta
+Assets/BOXOPHOBIC/Utils/Scripts/Utils/Editor/BoxophobicUtils.cs
+Assets/BOXOPHOBIC/Utils/Scripts/Utils/Editor/BoxophobicUtils.cs.meta
+Assets/BOXOPHOBIC/Utils/Scripts/Utils/Editor/Constants.cs
+Assets/BOXOPHOBIC/Utils/Scripts/Utils/Editor/Constants.cs.meta
+Assets/BOXOPHOBIC/Utils/Scripts/Utils/Editor/ShaderUtils.cs
+Assets/BOXOPHOBIC/Utils/Scripts/Utils/Editor/ShaderUtils.cs.meta
+Assets/BOXOPHOBIC/Utils/Shaders.meta
+Assets/BOXOPHOBIC/Utils/Shaders/Unlit Prototype Ground.shader
+Assets/BOXOPHOBIC/Utils/Shaders/Unlit Prototype Ground.shader.meta
+Assets/BOXOPHOBIC/Utils/Shaders/Unlit Prototype Skybox.shader
+Assets/BOXOPHOBIC/Utils/Shaders/Unlit Prototype Skybox.shader.meta
+Assets/BOXOPHOBIC/Utils/Tools.meta
+Assets/BOXOPHOBIC/Utils/Tools/Texture Packer.meta
+Assets/BOXOPHOBIC/Utils/Tools/Texture Packer/Functions.meta
+Assets/BOXOPHOBIC/Utils/Tools/Texture Packer/Functions/Texture Packer Channel.asset
+Assets/BOXOPHOBIC/Utils/Tools/Texture Packer/Functions/Texture Packer Channel.asset.meta
+Assets/BOXOPHOBIC/Utils/Tools/Texture Packer/Shaders.meta
+Assets/BOXOPHOBIC/Utils/Tools/Texture Packer/Shaders/Texture Packer Blit.shader
+Assets/BOXOPHOBIC/Utils/Tools/Texture Packer/Shaders/Texture Packer Blit.shader.meta
+Assets/CharacterMain.meta
+Assets/CharacterMain/aj.fbx
+Assets/CharacterMain/Animations/aj@Casting Spell.fbx
+Assets/CharacterMain/Animations/aj@Casting Spell.fbx.meta
+Assets/CharacterMain/Animations/aj@Idle (1).fbx
+Assets/CharacterMain/Animations/aj@Idle (1).fbx.meta
+Assets/CharacterMain/Animations/aj@Running (1).fbx
+Assets/CharacterMain/Animations/aj@Running (1).fbx.meta
+Assets/CharacterMain/Animations/aj@Standing 1H Magic Attack 01.fbx
+Assets/CharacterMain/Animations/aj@Standing 1H Magic Attack 01.fbx.meta
+Assets/CharacterMain/Animations/aj@Standing 1H Magic Attack 03.fbx
+Assets/CharacterMain/Animations/aj@Standing 1H Magic Attack 03.fbx.meta
+Assets/CharacterMain/Animations/aj@Two Hand Spell Casting.fbx
+Assets/CharacterMain/Animations/aj@Two Hand Spell Casting.fbx.meta
+Assets/CharacterMain/Animations/aj@Walking.fbx
+Assets/CharacterMain/Animations/aj@Walking.fbx.meta
+Assets/CharacterMain/Animations/Main_char_controler.controller
+Assets/CharacterMain/Animations/Main_char_controler.controller.meta
+Assets/CharacterMain/Materials.meta
+Assets/CharacterMain/Materials/Boy01_Body_MAT.mat.meta
+Assets/CharacterMain/Materials/Boy01_Brows_MAT1.mat.meta
+Assets/CharacterMain/Materials/Boy01_Eyes_MAT1.mat.meta
+Assets/CharacterMain/Materials/Boy01_Mouth_MAT1.mat.meta
+Assets/CharacterMain/Textures.meta
+Assets/CharacterMain/Textures/Boy01_diffuse.jpg
+Assets/CharacterMain/Textures/Boy01_diffuse.jpg.meta
+Assets/CharacterMain/Textures/Boy01_FacialAnimMap.png.meta
+Assets/CharacterMain/Textures/Boy01_normal.jpg
+Assets/CharacterMain/Textures/Boy01_normal.jpg.meta
+Assets/CharacterMain/Textures/Boy01_spec.jpg
+Assets/CharacterMain/Textures/Boy01_spec.jpg.meta
+Assets/EnemyMain.meta
+Assets/EnemyMain/EnemyCaster.meta
+Assets/EnemyMain/EnemyCaster/AnimShitCaster.meta
+Assets/EnemyMain/EnemyCaster/AnimShitCaster/CasterContrl.controller
+Assets/EnemyMain/EnemyCaster/AnimShitCaster/CasterContrl.controller.meta
+Assets/EnemyMain/EnemyCaster/AnimShitCaster/Ch30_nonPBR@Idle.fbx
+Assets/EnemyMain/EnemyCaster/AnimShitCaster/Ch30_nonPBR@Idle.fbx.meta
+Assets/EnemyMain/EnemyCaster/AnimShitCaster/Ch30_nonPBR@Run Forward.fbx
+Assets/EnemyMain/EnemyCaster/AnimShitCaster/Ch30_nonPBR@Run Forward.fbx.meta
+Assets/EnemyMain/EnemyCaster/AnimShitCaster/Ch30_nonPBR@Standing 1H Magic Attack 01.fbx
+Assets/EnemyMain/EnemyCaster/AnimShitCaster/Ch30_nonPBR@Standing 1H Magic Attack 01.fbx.meta
+Assets/EnemyMain/EnemyCaster/Ch30_nonPBR.fbx
+Assets/EnemyMain/EnemyCaster/Ch30_nonPBR.fbx.meta
+Assets/EnemyMain/EnemyCaster/EnemyCaster_Pref.prefab
+Assets/EnemyMain/EnemyCaster/EnemyCaster_Pref.prefab.meta
+Assets/EnemyMain/EnemyCaster/MaterialsCaster.meta
+Assets/EnemyMain/EnemyCaster/MaterialsCaster/Ch30_Body.mat.meta
+Assets/EnemyMain/EnemyCaster/MaterialsCaster/Ch30_Body1.mat.meta
+Assets/EnemyMain/EnemyCaster/TexturesCaster.meta
+Assets/EnemyMain/EnemyCaster/TexturesCaster/Ch30_1001_Diffuse.png.meta
+Assets/EnemyMain/EnemyCaster/TexturesCaster/Ch30_1001_Glossiness.png.meta
+Assets/EnemyMain/EnemyCaster/TexturesCaster/Ch30_1001_Normal.png.meta
+Assets/EnemyMain/EnemyCaster/TexturesCaster/Ch30_1001_Specular.png.meta
+Assets/EnemyMain/EnemyCaster/TexturesCaster/Ch30_1002_Diffuse.png.meta
+Assets/EnemyMain/EnemyCaster/TexturesCaster/Ch30_1002_Glossiness.png.meta
+Assets/EnemyMain/EnemyCaster/TexturesCaster/Ch30_1002_Normal.png.meta
+Assets/EnemyMain/EnemyCaster/TexturesCaster/Ch30_1002_Specular.png.meta
+Assets/EnemyMain/EnemyMelle.meta
+Assets/EnemyMain/EnemyMelle/AnimShit.meta
+Assets/EnemyMain/EnemyMelle/AnimShit/EnemyMeleeControler.controller
+Assets/EnemyMain/EnemyMelle/AnimShit/EnemyMeleeControler.controller.meta
+Assets/EnemyMain/EnemyMelle/AnimShit/mremireh_o_desbiens@Walking.fbx
+Assets/EnemyMain/EnemyMelle/AnimShit/mremireh_o_desbiens@Walking.fbx.meta
+Assets/EnemyMain/EnemyMelle/AnimShit/mremireh_o_desbiens@Zombie Attack.fbx
+Assets/EnemyMain/EnemyMelle/AnimShit/mremireh_o_desbiens@Zombie Attack.fbx.meta
+Assets/EnemyMain/EnemyMelle/AnimShit/mremireh_o_desbiens@Zombie Idle.fbx
+Assets/EnemyMain/EnemyMelle/AnimShit/mremireh_o_desbiens@Zombie Idle.fbx.meta
+Assets/EnemyMain/EnemyMelle/AnimShit/mremireh_o_desbiens@Zombie Running.fbx
+Assets/EnemyMain/EnemyMelle/AnimShit/mremireh_o_desbiens@Zombie Running.fbx.meta
+Assets/EnemyMain/EnemyMelle/EnemyMelee (2) Variant.prefab
+Assets/EnemyMain/EnemyMelle/EnemyMelee (2) Variant.prefab.meta
+Assets/EnemyMain/EnemyMelle/Materials.meta
+Assets/EnemyMain/EnemyMelle/Materials/emireh_body_material.mat.meta
+Assets/EnemyMain/EnemyMelle/Materials/emireh_shoe_material.mat.meta
+Assets/EnemyMain/EnemyMelle/mremireh_o_desbiens.fbx
+Assets/EnemyMain/EnemyMelle/mremireh_o_desbiens.fbx.meta
+Assets/EnemyMain/EnemyMelle/Taxtures.meta
+Assets/EnemyMain/EnemyMelle/Taxtures/mremireh_body__diffuse.png.meta
+Assets/EnemyMain/EnemyMelle/Taxtures/mremireh_body_normal.png.meta
+Assets/EnemyMain/EnemyMelle/Taxtures/mremireh_body_specular.png.meta
+Assets/EnemyMain/EnemyMelle/Taxtures/mremireh_shoe_diffuse.png.meta
+Assets/EnemyMain/EnemyMelle/Taxtures/mremireh_shoe_normal.png.meta
+Assets/EnemyMain/EnemyMelle/Taxtures/mremireh_shoe_specular.png.meta
+Assets/GabrielAguiarProductions.meta
+Assets/GabrielAguiarProductions/Prefabs.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/Materials.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/Materials/AB_Projectile_Mat01.mat.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/Materials/Projectile_Material.mat.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/Materials/Projectile_Material_BackFlip.mat.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/Materials/Shock_Wave_ADD_Scroll.mat.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/Materials/Trail01_AD.mat.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/Materials/Trail_Back_Flip_Dist.mat.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/Models.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/Models/Muzzle.fbx
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/Models/Muzzle.fbx.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/Models/prMesh01.fbx
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/Models/prMesh01.fbx.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/Shades.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/Shades/Additive_HDR.shadergraph
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/Shades/Additive_HDR.shadergraph.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/Shades/Particles_AB_HDR.shadergraph
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/Shades/Particles_AB_HDR.shadergraph.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/Shades/ParticlesAD_Scroll_HDR.shadergraph
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/Shades/ParticlesAD_Scroll_HDR.shadergraph.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/Textures.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/Textures/projectileShootTExture.png.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/Textures/ShockWave.png.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/Textures/TrailSheet 1.png.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/vfx_Hit_v1.prefab
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/vfx_Hit_v1.prefab.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/vfx_Hit_v2.prefab
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/vfx_Hit_v2.prefab.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/vfx_muzzle_v1.prefab
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/vfx_muzzle_v1.prefab.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/vfx_muzzle_v2.prefab
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/vfx_muzzle_v2.prefab.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/vfx_Projectile_Enemy.prefab
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/vfx_Projectile_Enemy.prefab.meta
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/vfx_Projectile_top_v1.prefab
+Assets/GabrielAguiarProductions/Prefabs/Projectiles/vfx_Projectile_top_v1.prefab.meta
+Assets/GabrielAguiarProductions/Scripts.meta
+Assets/GabrielAguiarProductions/Scripts/CameraShakeSimpleScript.cs
+Assets/GabrielAguiarProductions/Scripts/CameraShakeSimpleScript.cs.meta
+Assets/GabrielAguiarProductions/Scripts/ProjectileMoveScript.cs
+Assets/GabrielAguiarProductions/Scripts/ProjectileMoveScript.cs.meta
+Assets/GabrielAguiarProductions/Scripts/RotateToMouseScript.cs
+Assets/GabrielAguiarProductions/Scripts/RotateToMouseScript.cs.meta
+Assets/GabrielAguiarProductions/Scripts/SpawnProjectilesScript.cs
+Assets/GabrielAguiarProductions/Scripts/SpawnProjectilesScript.cs.meta
+Assets/GabrielAguiarProductions/Shaders.meta
+Assets/GabrielAguiarProductions/Shaders/FloorImpact.mat.meta
+Assets/GabrielAguiarProductions/Shaders/FloorImpact_Intencity_Low.mat.meta
+Assets/GabrielAguiarProductions/Simple_Projectiles.meta
+Assets/GabrielAguiarProductions/Simple_Projectiles/Prefabs.meta
+Assets/GabrielAguiarProductions/Simple_Projectiles/Prefabs/CharProjectile 1.prefab
+Assets/GabrielAguiarProductions/Simple_Projectiles/Prefabs/CharProjectile 1.prefab.meta
+Assets/GabrielAguiarProductions/Simple_Projectiles/Prefabs/CharProjectile 2.prefab
+Assets/GabrielAguiarProductions/Simple_Projectiles/Prefabs/CharProjectile 2.prefab.meta
+Assets/GabrielAguiarProductions/Simple_Projectiles/Prefabs/CharProjectile.prefab
+Assets/GabrielAguiarProductions/Simple_Projectiles/Prefabs/CharProjectile.prefab.meta
+Assets/GabrielAguiarProductions/Simple_Projectiles/Prefabs/EnemyProjectile.prefab
+Assets/GabrielAguiarProductions/Simple_Projectiles/Prefabs/EnemyProjectile.prefab.meta
+Assets/GabrielAguiarProductions/Simple_Projectiles/Prefabs/Hit_vfx .prefab
+Assets/GabrielAguiarProductions/Simple_Projectiles/Prefabs/Hit_vfx .prefab.meta
+Assets/GabrielAguiarProductions/Simple_Projectiles/Prefabs/MuzzleFlash_vfx.prefab
+Assets/GabrielAguiarProductions/Simple_Projectiles/Prefabs/MuzzleFlash_vfx.prefab.meta
+Assets/GabrielAguiarProductions/Simple_Projectiles/Prefabs/Projectile_vfx.prefab
+Assets/GabrielAguiarProductions/Simple_Projectiles/Prefabs/Projectile_vfx.prefab.meta
+Assets/GabrielAguiarProductions/Simple_Projectiles/Projectiles.meta
+Assets/GabrielAguiarProductions/Simple_Projectiles/Projectiles/bullet.fbx
+Assets/GabrielAguiarProductions/Simple_Projectiles/Projectiles/bullet.fbx.meta
+Assets/GabrielAguiarProductions/Simple_Projectiles/Projectiles/FireEffectForParticle.fbx
+Assets/GabrielAguiarProductions/Simple_Projectiles/Projectiles/FireEffectForParticle.fbx.meta
+Assets/GabrielAguiarProductions/Simple_Projectiles/Projectiles/MaterialsProjectile.meta
+Assets/GabrielAguiarProductions/Simple_Projectiles/Projectiles/MaterialsProjectile/Materials.meta
+Assets/GabrielAguiarProductions/Simple_Projectiles/Projectiles/MaterialsProjectile/Materials/ForMuzzleFlash.mat.meta
+Assets/GabrielAguiarProductions/Simple_Projectiles/Projectiles/MaterialsProjectile/Materials/ForProjectile.mat.meta
+Assets/GabrielAguiarProductions/Simple_Projectiles/Projectiles/MaterialsProjectile/Materials/KritaTextures.meta
+Assets/GabrielAguiarProductions/Simple_Projectiles/Projectiles/MaterialsProjectile/Materials/KritaTextures/UvsForCubeTest3.png.meta
+Assets/GabrielAguiarProductions/Simple_Projectiles/Projectiles/MaterialsProjectile/Materials/KritaTextures/UvsForImpact3.png.meta
+Assets/GabrielAguiarProductions/Textures.meta
+Assets/GabrielAguiarProductions/Textures/TextureHusTest.png.meta
+Assets/Scenes.meta
+Assets/Scenes/Main.unity
+Assets/Scenes/Main.unity.meta
+Assets/Scenes/SampleScene.meta
+Assets/Scenes/SampleScene/Lightmap-12_comp_dir.png.meta
+Assets/Scenes/SampleScene/Lightmap-12_comp_light.exr
+Assets/Scenes/SampleScene/Lightmap-12_comp_light.exr.meta
+Assets/Scenes/SampleScene/Lightmap-13_comp_dir.png.meta
+Assets/Scenes/SampleScene/Lightmap-13_comp_light.exr
+Assets/Scenes/SampleScene/Lightmap-13_comp_light.exr.meta
+Assets/Scenes/SampleScene/Lightmap-14_comp_dir.png.meta
+Assets/Scenes/SampleScene/Lightmap-14_comp_light.exr
+Assets/Scenes/SampleScene/Lightmap-14_comp_light.exr.meta
+Assets/Scenes/SampleScene/Lightmap-15_comp_dir.png.meta
+Assets/Scenes/SampleScene/Lightmap-15_comp_light.exr
+Assets/Scenes/SampleScene/Lightmap-15_comp_light.exr.meta
+Assets/Scenes/SampleScene/Lightmap-16_comp_dir.png.meta
+Assets/Scenes/SampleScene/Lightmap-16_comp_light.exr
+Assets/Scenes/SampleScene/Lightmap-16_comp_light.exr.meta
+Assets/Scenes/SampleScene/Lightmap-17_comp_dir.png.meta
+Assets/Scenes/SampleScene/Lightmap-17_comp_light.exr
+Assets/Scenes/SampleScene/Lightmap-17_comp_light.exr.meta
+Assets/Scenes/SampleScene/NavMesh.asset
+Assets/Scenes/SampleScene/NavMesh.asset.meta
+Assets/Scenes/SampleScene/Scene Settings Profile.asset
+Assets/Scenes/SampleScene/Scene Settings Profile.asset.meta
+Assets/Scenes/SampleScene_Profiles.meta
+Assets/Scripts/MainChar/ProjectileMove.cs
+Assets/Scripts/MainChar/ProjectileMove.cs.meta
+Assets/Swords and Shovels Progamming Closing the Loop.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Barrier_01.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Barrier_01.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Barrier_02.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Barrier_02.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Barrier_03.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Barrier_03.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Bridge_01.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Bridge_01.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Broken_Bridge_01.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Broken_Bridge_01.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Broken_Bridge_02.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Broken_Bridge_02.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Broken_Bridge_03.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Broken_Bridge_03.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Broken_Bridge_04.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Broken_Bridge_04.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Broken_Floor_01.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Broken_Floor_01.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Door_01.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Door_01.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Door_02.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Door_02.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Door_03.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Door_03.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Door_04.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Door_04.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Flag_01.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Flag_01.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Floor_01.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Floor_01.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Floor_02.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Floor_02.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Floor_03.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Floor_03.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Floor_04.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Floor_04.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Floor_05.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Floor_05.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Floor_06.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Floor_06.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Lantern_01.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Lantern_01.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Materials.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Materials/306ec2bb921d870015800f9ee0360890.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Materials/Low.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Pillar_01.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Pillar_01.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Pillar_02.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Pillar_02.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Pillar_03.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Pillar_03.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Pillar_04.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Pillar_04.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Stairs_01.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Stairs_01.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Statue_01.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Statue_01.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Wall_01.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Wall_01.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Wall_02.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Wall_02.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Wall_03.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Wall_03.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Wall_04.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Wall_04.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Wood_Plank_01.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Wood_Plank_01.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Wood_Plank_02.FBX
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/FBX/Wood_Plank_02.FBX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Barriers_01_Diff.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Barriers_01_Diff_DetailMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Barriers_01_Diff_MaskMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Bridge_01_Diffuse.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Bridge_01_Diffuse_DetailMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Bridge_01_Diffuse_MaskMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Broken_Bridge_01_Diffuse 1.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Broken_Bridge_01_Diffuse 1_MaskMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Broken_Bridge_01_Diffuse.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Broken_Bridge_01_Diffuse_DetailMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Broken_Bridge_01_Diffuse_MaskMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Broken_Floor_01_Diffuse.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Broken_Floor_01_Diffuse_DetailMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Broken_Floor_01_Diffuse_MaskMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Door_01_Diff.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Door_01_Diff_DetailMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Door_01_Diff_MaskMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Flag_01_Diffuse.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Flag_01_Diffuse_DetailMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Flag_01_Diffuse_MaskMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Floor_01_Diffuse.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Floor_01_Diffuse_DetailMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Floor_01_Diffuse_MaskMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Floor_04_Diff.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Floor_04_Diff_DetailMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Floor_04_Diff_MaskMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Lantern_01_Diffuse.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Lantern_01_Diffuse_MaskMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Pillar_01_DIFF.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Pillar_01_DIFF_DetailMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Pillar_01_DIFF_MaskMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Stairs_01_Diffuse.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Stairs_01_Diffuse_DetailMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Stairs_01_Diffuse_MaskMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Statue_01_Diffuse.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Statue_01_Diffuse_DetailMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Statue_01_Diffuse_MaskMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Wall_01_Diff.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Wall_01_Diff_DetailMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Wall_01_Diff_MaskMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Wall_02_DIff.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Wall_02_DIff_DetailMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Wall_02_DIff_MaskMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Wall_03_Diffuse.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Wall_03_Diffuse_DetailMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/Wall_03_Diffuse_MaskMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/WoodenPlank_01_Diffuse.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/WoodenPlank_01_Diffuse_DetailMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Materials/WoodenPlank_01_Diffuse_MaskMap.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Barrier_01.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Barrier_01.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Barrier_02.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Barrier_02.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Barrier_03.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Barrier_03.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Door_01.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Door_01.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Door_02.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Door_02.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Door_03.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Door_03.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Door_04.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Door_04.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Fire.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Fire.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Floor_02.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Floor_02.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Floor_03.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Floor_03.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/floor_tiles_full 1.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/floor_tiles_full 1.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/floor_tiles_full.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/floor_tiles_full.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Lantern_Lit.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Lantern_Lit.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Pillar_01.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Pillar_01.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Pillar_04.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Pillar_04.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Pillar_05.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Pillar_05.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Stairs_01.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Stairs_01.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Statue_01.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Statue_01.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Wall_03.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Wall_03.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Wall_04.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Wall_04.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Wood_Plank_01.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Wood_Plank_01.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Wood_Plank_02.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Prefabs/Wood_Plank_02.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Barrier_01_occlusion.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Barrier_01_occlusion.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Barriers_01_Diff.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Barriers_01_Diff.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Barriers_01_Norm.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Barriers_01_Norm.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Barriers_01_Spec.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Barriers_01_Spec.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Bridge_01_Diffuse.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Bridge_01_Diffuse.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Bridge_01_Norm.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Bridge_01_Norm.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Bridge_01_occlusion.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Bridge_01_occlusion.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Bridge_01_Specular.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Bridge_01_Specular.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Broken_Bridge_01_Diffuse.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Broken_Bridge_01_Diffuse.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Broken_Bridge_01_norm.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Broken_Bridge_01_norm.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Broken_Bridge_01_occlusion.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Broken_Bridge_01_occlusion.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Broken_Bridge_01_Specular.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Broken_Bridge_01_Specular.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Broken_Floor_01_Diffuse.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Broken_Floor_01_Diffuse.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Broken_Floor_01_Specular.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Broken_Floor_01_Specular.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/BrokenFloor_01_norm.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/BrokenFloor_01_norm.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/BrokenFloor_01_occlusion.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/BrokenFloor_01_occlusion.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/detail normal.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Door_01_Diff.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Door_01_Diff.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Door_01_emiss.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Door_01_emiss.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Door_01_Norm.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Door_01_Norm.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Door_01_Occlusion.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Door_01_Occlusion.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Door_01_Spec.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Door_01_Spec.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Flag_01_Diffuse.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Flag_01_Diffuse.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Flag_01_normals.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Flag_01_normals.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Flag_01_occlusion.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Flag_01_occlusion.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Floor_01_Diffuse.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Floor_01_Diffuse.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Floor_01_Normal.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Floor_01_Normal.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Floor_01_occlusion.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Floor_01_occlusion.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Floor_01_Specular.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Floor_01_Specular.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Floor_04_Diff.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Floor_04_Diff.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Floor_04_Norm.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Floor_04_Norm.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Floor_04_Oclusion.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Floor_04_Oclusion.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Floor_04_Spec.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Floor_04_Spec.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Lantern_01_Diffuse.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Lantern_01_Diffuse.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Lantern_01_Norm.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Lantern_01_Norm.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Lantern_01_occlusion.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Lantern_01_occlusion.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Pillar_01_curvature.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Pillar_01_curvature.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Pillar_01_DIFF.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Pillar_01_DIFF.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Pillar_01_NORM.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Pillar_01_NORM.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Pillar_01_occlusion.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Pillar_01_occlusion.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Pillar_01_Specular.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Pillar_01_Specular.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Stair_01_norm.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Stair_01_norm.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Stair_01_occlusion.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Stair_01_occlusion.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Stairs_01_Diffuse.tga
+Assets/CharacterMain/aj.fbx.meta
+Assets/CharacterMain/aj_Photon.prefab
+Assets/CharacterMain/aj_Photon.prefab.meta
+Assets/CharacterMain/Animations.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Stairs_01_Diffuse.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Stairs_01_Specular.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Stairs_01_Specular.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Statue_01_Diffuse.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Statue_01_Diffuse.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Statue_01_norm.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Statue_01_norm.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Statue_01_occlusion.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Statue_01_occlusion.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Statue_01_Specular.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Statue_01_Specular.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_01_Diff.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_01_Diff.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_01_Normal_F.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_01_Normal_F.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_01_occlusion.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_01_occlusion.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_01_Specular.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_01_Specular.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_02_DIff.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_02_DIff.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_02_Normal.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_02_Normal.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_02_occlusion.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_02_occlusion.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_02_Specular.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_02_Specular.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_03_AO.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_03_AO.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_03_Diffuse.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_03_Diffuse.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_03_NORM.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_03_NORM.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_03_Specular.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/Wall_03_Specular.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/WoodenPlank_01_Diffuse 1.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/WoodenPlank_01_Diffuse 1.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/WoodenPlank_01_norm.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/WoodenPlank_01_norm.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/WoodenPlank_01_occlusion.tga
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/Environment/Level Assets/Textures/WoodenPlank_01_occlusion.tga.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/FX.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/FX/Fire.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/FX/Fire/Fire no Light.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/FX/Fire/Fire no Light.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/FX/Fire/Fire.prefab
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/FX/Fire/Fire.prefab.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/FX/Fire/Materials & Textures.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/FX/Fire/Materials & Textures/cloud.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/FX/Fire/Materials & Textures/ember.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/FX/Fire/Materials & Textures/fire.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/FX/Fire/Materials & Textures/flame 4x4.jpg
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/FX/Fire/Materials & Textures/flame 4x4.jpg.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/FX/Fire/Materials & Textures/smoke.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/FX/Footsteps.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/FX/Footsteps/Materials.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/FX/Footsteps/Materials/rock.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/FX/Footsteps/Materials/Rock_grup3.mat.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/FX/Footsteps/rock.png.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/FX/Footsteps/Rock3_11D.fbx
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/FX/Footsteps/Rock3_11D.fbx.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/FX/Scripts.meta
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/FX/Scripts/LightFlicker.cs
+Assets/Swords and Shovels Progamming Closing the Loop/Assets/Common/Level/FX/Scripts/LightFlicker.cs.meta
+Assets/Test.asset
+Assets/Test.asset.meta
+build3/magictest.exe
+build3/magictest_Data/app.info
+build3/magictest_Data/boot.config
+build3/magictest_Data/globalgamemanagers
+build3/magictest_Data/globalgamemanagers.assets
+build3/magictest_Data/globalgamemanagers.assets.resS
+build3/magictest_Data/level0
+build3/magictest_Data/level0.resS
+build3/magictest_Data/Managed/Assembly-CSharp.dll
+build3/magictest_Data/Managed/Cinemachine.dll
+build3/magictest_Data/Managed/Mono.Security.dll
+build3/magictest_Data/Managed/mscorlib.dll
+build3/magictest_Data/Managed/netstandard.dll
+build3/magictest_Data/Managed/System.ComponentModel.Composition.dll
+build3/magictest_Data/Managed/System.Configuration.dll
+build3/magictest_Data/Managed/System.Core.dll
+build3/magictest_Data/Managed/System.Data.dll
+build3/magictest_Data/Managed/System.Diagnostics.StackTrace.dll
+build3/magictest_Data/Managed/System.dll
+build3/magictest_Data/Managed/System.Drawing.dll
+build3/magictest_Data/Managed/System.EnterpriseServices.dll
+build3/magictest_Data/Managed/System.Globalization.Extensions.dll
+build3/magictest_Data/Managed/System.IO.Compression.dll
+build3/magictest_Data/Managed/System.IO.Compression.FileSystem.dll
+build3/magictest_Data/Managed/System.Net.Http.dll
+build3/magictest_Data/Managed/System.Numerics.dll
+build3/magictest_Data/Managed/System.Runtime.Serialization.dll
+build3/magictest_Data/Managed/System.Runtime.Serialization.Xml.dll
+build3/magictest_Data/Managed/System.ServiceModel.Internals.dll
+build3/magictest_Data/Managed/System.Transactions.dll
+build3/magictest_Data/Managed/System.Xml.dll
+build3/magictest_Data/Managed/System.Xml.Linq.dll
+build3/magictest_Data/Managed/System.Xml.XPath.XDocument.dll
+build3/magictest_Data/Managed/Unity.Analytics.DataPrivacy.dll
+build3/magictest_Data/Managed/Unity.Postprocessing.Runtime.dll
+build3/magictest_Data/Managed/Unity.ProBuilder.dll
+build3/magictest_Data/Managed/Unity.ProBuilder.KdTree.dll
+build3/magictest_Data/Managed/Unity.ProBuilder.Poly2Tri.dll
+build3/magictest_Data/Managed/Unity.ProBuilder.Stl.dll
+build3/magictest_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll
+build3/magictest_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll
+build3/magictest_Data/Managed/Unity.RenderPipelines.HighDefinition.Runtime.dll
+build3/magictest_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+build3/magictest_Data/Managed/Unity.TextMeshPro.dll
+build3/magictest_Data/Managed/Unity.Timeline.dll
+build3/magictest_Data/Managed/UnityEngine.AccessibilityModule.dll
+build3/magictest_Data/Managed/UnityEngine.AIModule.dll
+build3/magictest_Data/Managed/UnityEngine.AnimationModule.dll
+build3/magictest_Data/Managed/UnityEngine.ARModule.dll
+build3/magictest_Data/Managed/UnityEngine.AssetBundleModule.dll
+build3/magictest_Data/Managed/UnityEngine.AudioModule.dll
+build3/magictest_Data/Managed/UnityEngine.ClothModule.dll
+build3/magictest_Data/Managed/UnityEngine.ClusterInputModule.dll
+build3/magictest_Data/Managed/UnityEngine.ClusterRendererModule.dll
+build3/magictest_Data/Managed/UnityEngine.CoreModule.dll
+build3/magictest_Data/Managed/UnityEngine.CrashReportingModule.dll
+build3/magictest_Data/Managed/UnityEngine.DirectorModule.dll
+build3/magictest_Data/Managed/UnityEngine.dll
+build3/magictest_Data/Managed/UnityEngine.FileSystemHttpModule.dll
+build3/magictest_Data/Managed/UnityEngine.GameCenterModule.dll
+build3/magictest_Data/Managed/UnityEngine.GridModule.dll
+build3/magictest_Data/Managed/UnityEngine.HotReloadModule.dll
+build3/magictest_Data/Managed/UnityEngine.ImageConversionModule.dll
+build3/magictest_Data/Managed/UnityEngine.IMGUIModule.dll
+build3/magictest_Data/Managed/UnityEngine.InputModule.dll
+build3/magictest_Data/Managed/UnityEngine.JSONSerializeModule.dll
+build3/magictest_Data/Managed/UnityEngine.LocalizationModule.dll
+build3/magictest_Data/Managed/UnityEngine.ParticleSystemModule.dll
+build3/magictest_Data/Managed/UnityEngine.PerformanceReportingModule.dll
+build3/magictest_Data/Managed/UnityEngine.Physics2DModule.dll
+build3/magictest_Data/Managed/UnityEngine.PhysicsModule.dll
+build3/magictest_Data/Managed/UnityEngine.ProfilerModule.dll
+build3/magictest_Data/Managed/UnityEngine.Purchasing.dll
+build3/magictest_Data/Managed/UnityEngine.ScreenCaptureModule.dll
+build3/magictest_Data/Managed/UnityEngine.SharedInternalsModule.dll
+build3/magictest_Data/Managed/UnityEngine.SpriteMaskModule.dll
+build3/magictest_Data/Managed/UnityEngine.SpriteShapeModule.dll
+build3/magictest_Data/Managed/UnityEngine.StreamingModule.dll
+build3/magictest_Data/Managed/UnityEngine.StyleSheetsModule.dll
+build3/magictest_Data/Managed/UnityEngine.SubstanceModule.dll
+build3/magictest_Data/Managed/UnityEngine.TerrainModule.dll
+build3/magictest_Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+build3/magictest_Data/Managed/UnityEngine.TextCoreModule.dll
+build3/magictest_Data/Managed/UnityEngine.TextRenderingModule.dll
+build3/magictest_Data/Managed/UnityEngine.TilemapModule.dll
+build3/magictest_Data/Managed/UnityEngine.TLSModule.dll
+build3/magictest_Data/Managed/UnityEngine.UI.dll
+build3/magictest_Data/Managed/UnityEngine.UIElementsModule.dll
+build3/magictest_Data/Managed/UnityEngine.UIModule.dll
+build3/magictest_Data/Managed/UnityEngine.UmbraModule.dll
+build3/magictest_Data/Managed/UnityEngine.UNETModule.dll
+build3/magictest_Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+build3/magictest_Data/Managed/UnityEngine.UnityConnectModule.dll
+build3/magictest_Data/Managed/UnityEngine.UnityTestProtocolModule.dll
+build3/magictest_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll
+build3/magictest_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+build3/magictest_Data/Managed/UnityEngine.UnityWebRequestModule.dll
+build3/magictest_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+build3/magictest_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+build3/magictest_Data/Managed/UnityEngine.VehiclesModule.dll
+build3/magictest_Data/Managed/UnityEngine.VFXModule.dll
+build3/magictest_Data/Managed/UnityEngine.VideoModule.dll
+build3/magictest_Data/Managed/UnityEngine.VRModule.dll
+build3/magictest_Data/Managed/UnityEngine.WindModule.dll
+build3/magictest_Data/Managed/UnityEngine.XRModule.dll
+build3/magictest_Data/resources.assets
+build3/magictest_Data/resources.assets.resS
+build3/magictest_Data/Resources/unity default resources
+build3/magictest_Data/Resources/unity_builtin_extra
+build3/magictest_Data/sharedassets0.assets
+build3/magictest_Data/sharedassets0.assets.resS
+build3/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll
+build3/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll
+build3/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser
+build3/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+build3/MonoBleedingEdge/etc/mono/2.0/machine.config
+build3/MonoBleedingEdge/etc/mono/2.0/settings.map
+build3/MonoBleedingEdge/etc/mono/2.0/web.config
+build3/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser
+build3/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
+build3/MonoBleedingEdge/etc/mono/4.0/machine.config
+build3/MonoBleedingEdge/etc/mono/4.0/settings.map
+build3/MonoBleedingEdge/etc/mono/4.0/web.config
+build3/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
+build3/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
+build3/MonoBleedingEdge/etc/mono/4.5/machine.config
+build3/MonoBleedingEdge/etc/mono/4.5/settings.map
+build3/MonoBleedingEdge/etc/mono/4.5/web.config
+build3/MonoBleedingEdge/etc/mono/browscap.ini
+build3/MonoBleedingEdge/etc/mono/config
+build3/MonoBleedingEdge/etc/mono/mconfig/config.xml
+build3/UnityCrashHandler64.exe
+build3/UnityPlayer.dll
+Packages/manifest.json
+ProjectSettings/AudioManager.asset
+ProjectSettings/ClusterInputManager.asset
+ProjectSettings/DynamicsManager.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/InputManager.asset
+ProjectSettings/NavMeshAreas.asset
+ProjectSettings/Packages/com.unity.probuilder/Settings.json
+ProjectSettings/Packages/com.unity.settings-manager/Settings.json
+ProjectSettings/Physics2DSettings.asset
+ProjectSettings/PresetManager.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/ProjectVersion.txt
+ProjectSettings/QualitySettings.asset
+ProjectSettings/TagManager.asset
+ProjectSettings/TimeManager.asset
+ProjectSettings/UnityConnectSettings.asset
+ProjectSettings/VFXManager.asset
+ProjectSettings/XRSettings.asset
