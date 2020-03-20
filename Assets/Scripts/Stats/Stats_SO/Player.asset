@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4fc1befe1bd59e42a3c03c9a6dcbb7e, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  isHero: 1
+  maxHealth: 0
+  currentHealth: 0
+  maxWealth: 0
+  currentWealth: 0
+  maxMana: 0
+  currentMana: 0
+  baseDamage: 0
+  currentDamage: 0
+  baseMagicDamage: 0
+  currentMagicDamage: 0
+  baseResistance: 0
+  currentResistance: 0
+  baseSpellResistance: 0
+  currentSpellResistance: 0
+  charExp: 0
+  charLevel: 0
+  charLevels:
+  - maxHealth: 100
+    maxMana: 100
+    maxWealth: 500
+    baseDamage: 30
+    baseMagicDamage: 50
+    baseResistance: 10
+    baseSpellResistance: 10
+    requiredXP: 0
+  - maxHealth: 600
+    maxMana: 125
+    maxWealth: 500
+    baseDamage: 40
+    baseMagicDamage: 70
+    baseResistance: 15
+    baseSpellResistance: 15
+    requiredXP: 200
+  - maxHealth: 0
+    maxMana: 0
+    maxWealth: 0
+    baseDamage: 0
+    baseMagicDamage: 0
+    baseResistance: 0
+    baseSpellResistance: 0
+    requiredXP: 0
