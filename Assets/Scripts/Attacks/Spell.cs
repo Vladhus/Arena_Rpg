@@ -12,10 +12,13 @@ namespace SingleMagicMoba
         public Projectile ProjectileToFire;
         public float ProjectileSpeed;
 
+        #region Projectile casting
+
         public void Cast(GameObject Caster, Transform HotSpot, Vector3 Target, int Layer)
         {
             // Fire Projectile at target
             Projectile projectile = Instantiate(ProjectileToFire, HotSpot.position, HotSpot.rotation) as Projectile;
+
             // projectile.transform.forward = Caster.transform.forward;
             projectile.transform.forward = Target - HotSpot.transform.position;
 
@@ -27,6 +30,10 @@ namespace SingleMagicMoba
             // Listen to Projectile Collided Event
             projectile.ProjectileCollided += OnProjectileCollided;
         }
+
+        #endregion
+
+        #region Projectile in action
 
         private void OnProjectileCollided(GameObject Caster, GameObject Target)
         {
@@ -50,6 +57,8 @@ namespace SingleMagicMoba
                 a.OnAttack(Caster, attack);
             }
         }
+
+        #endregion
     }
 
 }

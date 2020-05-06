@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a305f64591a84e43a33d9088f34aa5a, type: 3}
+  m_Name: Spell_Item_Frostball_triple
+  m_EditorClassIdentifier: 
+  attackDefinition1: {fileID: 11400000, guid: fe8477807904b1049b9f498da61ec4a5, type: 2}
+  itemAmount: 0
+  ItemType: 5
+  ItemSubType: 0
+  itemWeaponSubType: 2
+  ItemBuffScholl: 1
+  ItemArmorStatsSubType: 

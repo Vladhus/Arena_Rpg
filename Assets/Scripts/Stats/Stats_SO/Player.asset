@@ -54,3 +54,6 @@ MonoBehaviour:
     baseResistance: 0
     baseSpellResistance: 0
     requiredXP: 0
+  CharSkills:
+    spellBuffer: {fileID: 0}
+    UltimateSpellBuffer: {fileID: 0}

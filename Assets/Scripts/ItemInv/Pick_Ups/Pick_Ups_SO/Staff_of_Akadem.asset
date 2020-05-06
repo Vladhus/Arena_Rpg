@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a305f64591a84e43a33d9088f34aa5a, type: 3}
+  m_Name: Staff_of_Akadem
+  m_EditorClassIdentifier: 
+  itemName: Master_Staff
+  attackDefinition1: {fileID: 11400000, guid: d1ef125db03d05442b72b39e55438377, type: 2}
+  itemAmount: 10
+  spawnChanceWeight: 5
+  ItemType: 0500000003000000
+  ItemSubType: 0
+  itemWeaponSubType: 1
+  ItemBuffScholl: 1
+  itemSpawnObject: {fileID: 718216938, guid: ced0eeda562fecf489cbd5c07643fbc3, type: 3}
+  weaponSlotObject: {fileID: 11400000, guid: 5d7545d96fb514a468fa672d47f7d4b9, type: 2}
+  itemMaterial: {fileID: 2100000, guid: 5a1728cef01f1eb4f9dd8f013067664e, type: 2}
+  itemIcon: {fileID: 21300000, guid: 5ecdedbd2cd2582478b24470b846be29, type: 3}
+  isEquiped: 1
+  isInteractable: 0
+  isStorable: 0
+  isUnique: 1
+  isIndestructable: 1
+  isQuestItem: 0
+  isStackable: 0
+  destroyOnUse: 0
+  itemWeight: 2
+  ItemArmorStatsSubType: 0200000000000000
