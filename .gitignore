@@ -61,7 +61,6 @@ crashlytics-build.properties
 Assets/3DGamekit.meta
 Assets/3DGamekit/Art.meta
 *.mat
-*.png
 Assets/3DGamekit/Art/Materials.meta
 Assets/3DGamekit/Art/Materials/Environment.meta
 Assets/3DGamekit/Art/Materials/Environment/Rock.meta
